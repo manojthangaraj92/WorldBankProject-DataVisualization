@@ -7,3 +7,5 @@ inner joined and left at extract mode than live mode.
 In subpart 2, The PowerBI paltform has been used to explore the dataset. Its offering wide interaction abilities than tableau.
 
 The datasets are joined in RapidMiner software.
+
+There are files which are in Tableau, PowerBI, Source code daatset folder, RapidMiner file used for Joins.
